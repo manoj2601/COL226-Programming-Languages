@@ -1,7 +1,7 @@
 ### commands to execute instructions(instructions.txt) keeping the input data in sheet.csv
 
-make clean\n
-make\n
-make run\n
+make clean   
+make  
+make run  
 
 output file : output.csv
